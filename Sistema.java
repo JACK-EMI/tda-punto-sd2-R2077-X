@@ -1,3 +1,4 @@
 public enum Sistema {
-    PLANO, ESPACIO
+    PLANO,
+    ESPACIO
 }
